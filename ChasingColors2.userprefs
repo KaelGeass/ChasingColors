@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Fluxo.cs">
+    <Files>
+      <File FileName="Assets\Scripts\LightCollider.cs" Line="1" Column="1" />
+      <File FileName="Assets\gameOverWin.cs" Line="11" Column="32" />
+      <File FileName="Assets\BackMenu.cs" Line="8" Column="1" />
+      <File FileName="Assets\Scripts\Platformer2DUserControl.cs" Line="3" Column="1" />
+      <File FileName="Assets\Scripts\Fluxo.cs" Line="10" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
